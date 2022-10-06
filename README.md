@@ -1,16 +1,19 @@
 ### Hi there 👋
 
 <!--
-**TroyAtienza/TroyAtienza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently working on a website that allows users to add movies that they have seen or recommend on their profile, similar to Netflix's "My List". This academic project has a huge focus on the backend with Nodejs and Express as the backbone and Firebase as its main database for storing users and movies. This project also utilizes the Bootstrap framework to help alleviate some of the frontend as the team and I focus on the backend.
 
-Here are some ideas to get you started:
+The main challenges from this project has been learning and getting the hang of how to properly use Nodejs, Express, and EJS. The next major upcoming challenge for this project would be its deployment to a cloud platform.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Login/Registration:
+
+Homepage:
+
+Movie modal:
+
+User profile:
+
+Movie addition as an admin:
+
+Past Project:
 -->
