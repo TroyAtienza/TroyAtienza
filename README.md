@@ -20,9 +20,9 @@ Movie addition as an admin:<br/>
 One of my past projects is a [medication reminder](https://github.com/TroyAtienza/Medication-Reminder) app that utilizes the React Native framework. This mobile application solves the doubt and uncertainty that comes with prescription medication by providing its users with an intuitive and responsive medication reminder application.
 
 <p float="left">
-  <img title="Login" alt="Login" src="/Images/Login.png" width="200">
-  <img title="Registration" alt="Registration" src="/Images/Registration.png" width="200">
-  <img title="PillType" alt="PillType" src="/Images/PillType.png" width="200">
+  <img title="Login" alt="Login" src="/Images/Login.png" width="250">
+  <img title="Registration" alt="Registration" src="/Images/Registration.png" width="250">
+  <img title="PillType" alt="PillType" src="/Images/PillType.png" width="250">
 </p>
 
 Another past project is a [grade calculator](https://github.com/TroyAtienza/TroyAtienza.github.io) that lets students calculate their total grade. This project runs on GitHub Pages and uses pure HTML, CSS, and JavaScript.
