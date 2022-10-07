@@ -15,6 +15,8 @@ Login/Registration:<br/>
 Movie addition as an admin:<br/>
 <img title="AdminAddMovie" alt="AdminAddMovie" src="/Images/AdminAddMovie.png" >
 
+<br/>
+
 ### Past Projects:
 
 One of my past projects is a [medication reminder](https://github.com/TroyAtienza/Medication-Reminder) app that utilizes the React Native framework. This mobile application solves the doubt and uncertainty that comes with prescription medication by providing its users with an intuitive and responsive medication reminder application.
