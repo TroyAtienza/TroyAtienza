@@ -1,10 +1,12 @@
 ### Hi there 👋
 
-I'm currently working on a website that allows users to add movies that they have seen or recommend on their profile, similar to Netflix's "My List". This academic project has a huge focus on the backend with Nodejs and Express as the backbone and Firebase as its main database for storing users and movies. This project also utilizes the Bootstrap framework to help alleviate some of the frontend while the team and I focus on the backend.
+### Here are a few of my past projects:
+
+#### BDMI:
+
+This project is essentially a website that allows users to add movies that they have seen or recommend on their profile, similar to Netflix's "My List". This academic project has a huge focus on the backend with Nodejs and Express as the backbone and Firebase as its main database for storing users and movies. This project also utilizes the Bootstrap framework to help alleviate some of the frontend while the team and I focus on the backend.
 
 The main challenges from this project has been learning and getting the hang of how to properly use Nodejs, Express, and EJS. The next major upcoming challenge for this project would be its deployment to a cloud platform.
-
-
 
 Homepage:<br/>
 <img title="Homepage" alt="Homepage" src="/Images/Homepage.png" >
@@ -15,11 +17,11 @@ Login/Registration:<br/>
 Movie addition as an admin:<br/>
 <img title="AdminAddMovie" alt="AdminAddMovie" src="/Images/AdminAddMovie.png" >
 
-<br/>
+</br>
 
-### Past Projects:
+#### Medication Reminder:
 
-One of my past projects is a [medication reminder](https://github.com/TroyAtienza/Medication-Reminder) app that utilizes the React Native framework. This mobile application solves the doubt and uncertainty that comes with prescription medication by providing its users with an intuitive and responsive medication reminder application.
+Another project is my [medication reminder](https://github.com/TroyAtienza/Medication-Reminder) app that utilizes the React Native framework. This mobile application solves the doubt and uncertainty that comes with prescription medication by providing its users with an intuitive and responsive medication reminder application.
 
 <p float="left">
   <img title="Login" alt="Login" src="/Images/Login.png" width="250">
